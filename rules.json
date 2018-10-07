@@ -1,0 +1,12 @@
+[
+    {
+        "file"          : ".js$",
+        "phrase"        : "console.log\\(that\\)",
+        "replacement"   : "console.log(this)"
+    },
+    {
+        "file"          : "temp.txt",
+        "phrase"        : "dog",
+        "replacement"   : "cat"
+    }
+]

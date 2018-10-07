@@ -1,0 +1,16 @@
+{
+  "name": "projectcrawler",
+  "version": "1.0.0",
+  "description": "Recursively crawls through files in subdirectories and replaces text in files",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules --experimental-worker index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kok Chee Kean",
+  "license": "ISC",
+  "bin": {
+    "crawl": "./index.mjs"
+  }
+}
