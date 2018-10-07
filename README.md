@@ -1,6 +1,6 @@
 # Crawl
 
-A no-dependency NodeJS command-line tool to recursively crawl through files in subdirectories and replace text in them.
+Because I'm too lazy to do massive repetitive changes to massive massive codebases, a no-dependency NodeJS command-line tool to recursively crawl through files in subdirectories and replace text in them.
 
 ## Installation
 
